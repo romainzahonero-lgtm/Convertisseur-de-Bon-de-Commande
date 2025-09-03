@@ -1,0 +1,5 @@
+{
+  "name": "Convertisseur de Bon de Commande PDF en Excel",
+  "description": "Une application web pour extraire les données tabulaires d'un bon de commande au format PDF et les convertir en un fichier CSV téléchargeable, compatible avec Excel.",
+  "requestFramePermissions": []
+}
